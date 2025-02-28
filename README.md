@@ -1,11 +1,11 @@
 # Postify - flutter app
-A feature-rich Postify built using Flutter, Firebase and Cloudniary. This project demonstrates the development of a scalable, full-stack social media application with functionalities like authentication, post creation, commenting, and upvoting/downvoting posts.
+A feature-rich Postify was built using Flutter, Firebase, and Cloudniary. This project demonstrates the development of a scalable, full-stack social media application with functionalities like authentication, post creation, commenting, and upvoting/downvoting posts.
 
 ---
 
-## NOTE!
-   #### please make sure you have setted your cloudniary clud name and upload prreset  (location - ..\lib\core\key.dart)
-   #### also connect project with firebase 
+## NOTE! ----------- ???? ----------
+   ### Please make sure you have set your cloudniary cloud name and upload preset  (location - ..\lib\core\key.dart)
+   ### also connect project with firebase 
 
 ---
 
