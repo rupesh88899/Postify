@@ -3,6 +3,12 @@ A feature-rich Postify built using Flutter, Firebase and Cloudniary. This projec
 
 ---
 
+## NOTE!
+   #### please make sure you have setted your cloudniary clud name and upload prreset  (location - ..\lib\core\key.dart)
+   #### also connect project with firebase 
+
+---
+
 ## Features
 
 ### Authentication
