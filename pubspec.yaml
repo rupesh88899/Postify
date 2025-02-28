@@ -84,6 +84,9 @@ flutter:
     - assets/images/reddit.jpg
     - assets/images/logo_foreground.png
     - assets/images/awards/
+#this lines are extra    
+    - assets/images/another/android.png
+    - assets/images/another/ios.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -111,11 +114,21 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
+
+# flutter_launcher_icons:
+#   image_path: "assets/images/reddit.jpg"
+#   android: true
+#   ios: true 
+#   adaptive_icon_background: "#ffffff"
+#   adaptive_icon_foreground: "assets/images/logo_foreground.png"
+
+
+#postify editing icon code
 flutter_launcher_icons:
-  image_path: "assets/images/reddit.jpg"
+  image_path: "assets/images/another/android.png"
   android: true
   ios: true 
   adaptive_icon_background: "#ffffff"
-  adaptive_icon_foreground: "assets/images/logo_foreground.png"
-
-    
+  adaptive_icon_foreground: "assets/images/another/ios.png"

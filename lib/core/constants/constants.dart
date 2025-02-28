@@ -3,7 +3,7 @@ import 'package:reddit_clone/features/feed/feed_screen.dart';
 import 'package:reddit_clone/features/post/screens/add_post_screen.dart';
 
 class Constants {
-  static const logoPath = "assets/images/logo.png";
+  static const logoPath = "assets/images/another/android.png";
   static const googlePath = "assets/images/google.png";
   static const loginEmotePath = "assets/images/loginEmote.png";
 
@@ -17,8 +17,10 @@ class Constants {
     AddPostScreen(),
   ];
 
-  static const IconData up = IconData(0xe800, fontFamily: 'MyFlutterApp', fontPackage: null);
-  static const IconData down = IconData(0xe801, fontFamily: 'MyFlutterApp', fontPackage: null);
+  static const IconData up =
+      IconData(0xe800, fontFamily: 'MyFlutterApp', fontPackage: null);
+  static const IconData down =
+      IconData(0xe801, fontFamily: 'MyFlutterApp', fontPackage: null);
 
   static const awardsPath = 'assets/images/awards';
 
@@ -33,4 +35,3 @@ class Constants {
     'til': '${Constants.awardsPath}/til.png',
   };
 }
-
